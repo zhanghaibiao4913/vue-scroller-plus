@@ -4,4 +4,4 @@ vue-scroller：用于下拉刷新，上拉加载的一个vue组件
 1) 去掉回弹效果，添加下拉刷新小球
 2) 添加滚动监听函数: onScroll // 参数pos：当前的滚动位置
 
-![image](https://github.com/zhanghbhym/vue-scroller-plus/blob/master/refresh.gif)
+![image](https://github.com/zhanghaibiao4913/vue-scroller-plus/blob/master/refresh.gif)
